@@ -3,4 +3,5 @@ test.ipynb
 .vscode
 dunya
 split_audio
+*.zip
 __pycache__
