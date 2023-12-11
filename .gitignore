@@ -5,3 +5,6 @@ dunya
 split_audio
 *.zip
 __pycache__
+data/sp/data
+data/dataset_v2/data
+*.rar
